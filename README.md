@@ -1,9 +1,12 @@
 ## Welcome to Cem Karaman's Portfolio Page
+Data Scientist with a PhD in Economics, a strong math and finance background, and experience in machine learning and statistics using tools like Python, Keras, and MATLAB. Experienced in project design, hypothesis testing, predictive modeling, and analytical problem solving utilizing advanced statistical methods. Proficient in algorithm development and implementation, data wrangling, exploratory data analysis, identifying patterns, clustering and visualization of data
 
+### Classifying News Articles According to Their Sources
 
-### Markdown
+-	Python Tools: Pandas, Matplotlib, API, Scikit Learn, TfidfVectorizer, NLTK, Naïve Bayes, SVM, Keras.
+-	Processed text data using NLTK. News articles are classified according to their sources.
+-	Achieved 77% accuracy in correctly predicting the source of a news article.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
