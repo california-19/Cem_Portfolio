@@ -5,7 +5,7 @@ in machine learning and statistics using tools like Python, Keras, and MATLAB.
 Experienced in project design, hypothesis testing, predictive modeling, and 
 analytical problem solving utilizing advanced statistical methods. Proficient in 
 algorithm development and implementation, data wrangling, exploratory data analysis, 
-identifying patterns, clustering and visualization of data
+identifying patterns, clustering and visualization of data.
 ```
 ### Classifying News Articles According to Their Sources
 
