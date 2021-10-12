@@ -27,4 +27,4 @@ identifying patterns, clustering and visualization of data
 ### Predicting Income vs. Education Level on PySpark
 -	Python Tools: PySpark, SQL, Linear Regression, Logistic Regression
 -	Applied big data machine learning techniques with Apache Spark.
--	Hosted the project on databricks.com. The link is available in my LinkedIn post and website.
+-	Hosted the project on databricks.com on this [link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1036967690196085/532742916882471/5353975428490315/latest.html).
