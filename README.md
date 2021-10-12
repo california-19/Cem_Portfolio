@@ -12,6 +12,7 @@ identifying patterns, clustering and visualization of data
 -	Python Tools: Pandas, Matplotlib, API, Scikit Learn, TfidfVectorizer, NLTK, Naïve Bayes, SVM, Keras.
 -	Processed text data using NLTK. News articles are classified according to their sources.
 -	Achieved 77% accuracy in correctly predicting the source of a news article.
+-	Source code: https://github.com/california-19/Classifying_News_Articles
 
 ### Adult Income Classification Problem, Income vs Education vs Relationship
 -	Python Tools: Pandas, Matplotlib, Seaborn, Scikit Learn, Decision Tree, Random Forest, XGBoost.
