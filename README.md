@@ -11,15 +11,18 @@ Open to work.
 You can contact me on my [LinkedIn page](https://www.linkedin.com/in/cemkaraman/).
 
 ### Classifying News Articles According to Their Sources
-
 -	Python Tools: Pandas, Matplotlib, API, Scikit Learn, TfidfVectorizer, NLTK, Naïve Bayes, SVM, Keras.
 -	Processed text data using NLTK. News articles are classified according to their sources.
 -	Achieved 77% accuracy in correctly predicting the source of a news article.
 -	Source code: https://github.com/california-19/Classifying_News_Articles
 
+### Credit Card Fraud Detection
+- Tools: PySpark, Spark SQL Dataframe, from pyspark.ml.classification library LogisticRegression, NaiveBayes, GBTClassifier, RandomForestClassifier, hosted on Databricks [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1036967690196085/1546339980562946/5353975428490315/latest.html).
+- Performed over and undersampling, scaling before testing algorithms. Compared the performance of four machine learning techniques for both oversampled and undersampled dataset.
+- Achieved up to 98.7% accuracy rate in fraud detection.
+
 ### Adult Income Classification Problem, Income vs Education vs Relationship
 -	Python Tools: Pandas, Matplotlib, Seaborn, Scikit Learn, Decision Tree, Random Forest, XGBoost.
--	I repeated the same project on PySpark too. The link to my host at Databricks.com is at my website https//cemkaraman.com
 -	Performed supervised learning with achieving 90% accuracy.
 -	Brought a twist to typical modeling and compared variables’ predictability as well. Is it easier to predict income level or relationship status? Available [here](https://github.com/california-19/Adult_Income).
 
