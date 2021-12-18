@@ -10,6 +10,13 @@ Open to work.
 ```
 You can contact me on my [LinkedIn page](https://www.linkedin.com/in/cemkaraman/).
 
+### House Price Prediction
+-	Python Tools: Pandas, Matplotlib, Seaborn, XGBoost, Linear Regression, GridSearchCV.
+-	Built a predictive ML model to predict house prices in Nashville area.
+-	Suggested dividing the housing market into submarkets to improve price predictibility.
+-	Achieved 83% accuracy in correctly predicting house prices.
+-	Source code: https://github.com/california-19/Nashville_House_Prices
+
 ### Classifying News Articles According to Their Sources
 -	Python Tools: Pandas, Matplotlib, API, Scikit Learn, TfidfVectorizer, NLTK, Naïve Bayes, SVM, Keras.
 -	Processed text data using NLTK. News articles are classified according to their sources.
