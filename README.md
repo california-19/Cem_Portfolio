@@ -10,6 +10,13 @@ Open to work.
 ```
 You can contact me on my [LinkedIn page](https://www.linkedin.com/in/cemkaraman/).
 
+### Testing the Effectiveness of a New Ad Campaign using A/B Testing
+-	Python Tools: Pandas, Flask, pickle.
+-	Built a statistical model to test the effectiveness of a new ad campaign.
+-	Computed the p-value, compared it with user-entered signifcance level, tested the hypothesis.
+-	Interactive webpage built using Flask is then hosted on Heroku: https://ab-testing-karaman.herokuapp.com/
+-	Files: https://github.com/california-19/AB_Testing
+
 ### House Price Prediction
 -	Python Tools: Pandas, Matplotlib, Seaborn, XGBoost, Linear Regression, GridSearchCV.
 -	Built a predictive ML model to predict house prices in Nashville area.
