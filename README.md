@@ -6,7 +6,8 @@ Experienced in project design, hypothesis testing, predictive modeling, and
 analytical problem solving utilizing advanced statistical methods. Proficient in 
 algorithm development and implementation, data wrangling, exploratory data analysis, 
 identifying patterns, clustering and visualization of data. AWS Certified Cloud Practitioner.
-Open to work.
+
+Last updated in December 2021.
 ```
 You can contact me on my [LinkedIn page](https://www.linkedin.com/in/cemkaraman/).
 
